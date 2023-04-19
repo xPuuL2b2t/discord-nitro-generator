@@ -30,9 +30,9 @@ __-- Coming soon list --__
 ## 🎈・Usage
 
 ```
-> download zip file
-> extract
-> run "START.exe"
+> Download zip file and extract
+> Execute the .bat file.
+> Wait for the generation.
 ```
 
 
